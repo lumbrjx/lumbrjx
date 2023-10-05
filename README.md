@@ -1,3 +1,6 @@
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif/giphy.gif" width="80"/>
+</div>
 
 ## Hey! i'm Clog
 A self taught software developer. oh, it's so rusty here..
