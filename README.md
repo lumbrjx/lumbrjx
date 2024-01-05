@@ -17,6 +17,3 @@ Im interested in building frontend/backend softwares, JS/TS, Rust CLI's and libs
 - [Authify](https://github.com/CLOG9/Auth-sys)
 
 
-
-## stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLOG9&theme=dark&bg_color=0d1117&hide_border=true&show_icons=true&count_private=true)
