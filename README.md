@@ -1,19 +1,7 @@
-<div id="header" align="left">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif/giphy.gif" width="70"/>
-</div>
+### Hey! i'm Clog
 
-## Hey! i'm Clog
-A self taught software developer. oh, it's so rusty here..
+Years ago, i started building software for the sake of killing boredom and experimenting with a new stuff. it was and still a really interesting topic for me.
 
-Im interested in building frontend/backend softwares, JS/TS, Rust CLI's and libs.
+Being enthusiastic towards tech and afraid of being obeselte/average dev, i developed the habit of going off limits and coming with ideas that solve different problems for both devs and users. 
 
-## Social links
-- Discord: el_clog
-- [LinkedIn](https://www.linkedin.com/in/kaibi-tayeb-273b33291/)
-
-## Projects
-- [Puzchess](https://github.com/CLOG9/PuzChess)
-- [Wardenx](https://github.com/CLOG9/Wardenx-core)
-- [Authify](https://github.com/CLOG9/Auth-sys)
-
-
+I became more serious about making web/cloud solutions and empowered that with low level and system programming.
