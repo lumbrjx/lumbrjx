@@ -1,4 +1,4 @@
-### Hey! i'm Clog
+### Hey! i'm eHoriz0n
 
 Years ago, i started building software for the sake of killing boredom and experimenting with a new stuff. it was and still a really interesting topic for me.
 
