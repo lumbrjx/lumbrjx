@@ -1,4 +1,4 @@
-### Hey! i'm DeadBeef
+### Hey! i'm Lumberjack 
 
 Years ago, i started building software for the sake of killing boredom and experimenting with a new stuff.
 
