@@ -1,7 +1,7 @@
-### Hey! I'm Tayeb 
+### Hi, I'm Tayeb
 
-Years ago, I started building software to kill boredom and experiment with new stuff.
+I started my software journey to explore technology and take on new challenges. Over time, this interest has developed into a focus on System programming, and security.
 
-Being enthusiastic about tech, I developed the habit of aiming to go off-limits and coming up with ideas that solve different problems for both devs and end users. 
+I'm interested in learning and working with kernels, networking, and eBPF technology, handling complex systems, and delving into the TCP/IP stack to enhance performance and functionality. Penetration testing is also central to my interests.
 
-I am more interested in making web/cloud solutions and empowering them with system programming.
+I specialize in creating and optimizing backend solutions and cloud infrastructure. This includes building custom Kubernetes controllers and developing secure, high-performance systems, aiming to address both user and developer needs.
